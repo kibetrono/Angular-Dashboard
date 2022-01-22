@@ -1,0 +1,16 @@
+.login{
+    border:1px solid cadetblue;
+    width:89%;
+    float: right;
+
+    padding-left: 20px;
+    height: 615px;
+}
+
+input{
+    width:60%;
+    height:60px
+}
+label{
+    font-size: 20px;
+}
