@@ -1,0 +1,40 @@
+.side{
+    float: left;
+    width:11%;
+    border:1px solid black;
+    height:800px;
+    color:white;
+    background-color: #262E3F;
+    overflow: hidden;
+}
+ul li{
+    list-style-type: none;
+    /* margin-top:20px; */
+  
+
+
+}
+ul li a{
+    text-decoration: none;
+    font-size: 25px;
+ 
+}
+
+.links{
+    margin-top: 20px;
+    /* border-bottom: 1px solid grey; */
+padding:10px;
+}
+.links:hover{
+    background-color: green;
+
+
+}
+#logo {
+    text-decoration: none;
+    font-size: 25px;
+    border-radius: 100px;
+    width:80px;
+    height: 80px;
+    margin-left: 60px;
+}
