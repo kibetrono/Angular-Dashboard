@@ -1,0 +1,23 @@
+.head{
+    /* border:1px solid blue; */
+    width:89%;
+    float: right;
+    padding-left: 20px;
+
+}
+#btn{
+    margin-top:-45px;
+    float: right;
+    padding:15px 25px
+}
+.lines{
+    margin-top: 20px;
+}
+.menu-lines{
+    height:5px;
+    width:40px;
+    background-color: black;
+    margin: 5px 0;
+  
+
+}
